@@ -55,8 +55,7 @@ public class JavaExample57StringOperationPart8 {
         System.out.println("First index of string (th), beginning with index (7): "+ind6);
         System.out.println("Last index of string (th): "+ind7);
         System.out.println("Last index (last occurence) of string (th), beginning with index (7) and backward to the beginning of the string: "+ind8);
-        
-        
+           
     }
     
 }
